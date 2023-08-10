@@ -95,9 +95,17 @@
 			path = Profile;
 			sourceTree = "<group>";
 		};
+		D55DF80A2A8556AA004EE29F /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 		D5DD9B6A2A72BBDC001F6A7E = {
 			isa = PBXGroup;
 			children = (
+				D55DF80A2A8556AA004EE29F /* Screenshots */,
 				D5DD9B752A72BBDC001F6A7E /* Auth_SwiftUi */,
 				D5DD9B742A72BBDC001F6A7E /* Products */,
 				D5DD9BBC2A7C15AC001F6A7E /* Frameworks */,
